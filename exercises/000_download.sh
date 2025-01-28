@@ -5,7 +5,7 @@
 # Uncomment one of the following lines to download the precompiled binary for your platform:
 
 # macOS
-#curl -Lo tigerbeetle.zip https://mac.tigerbeetle.com && unzip tigerbeetle.zip 
+curl -Lo tigerbeetle.zip https://mac.tigerbeetle.com && unzip tigerbeetle.zip 
 
 # Linux
 #curl -Lo tigerbeetle.zip https://linux.tigerbeetle.com && unzip tigerbeetle.zip
